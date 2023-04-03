@@ -1,7 +1,7 @@
 ## Olá, sou a Iasmim Godoy!👋
 
-- ⚡ Me Tornando Desenvolvedora Full Stack
-- 🌱 estudando Angular, C# e .NET
+- ⚡ Me tornando Desenvolvedora Full Stack
+- 🌱 Estudando Angular, C# e .NET
 - 💬 Posso responder perguntas sobre: Transact SQL e Microsoft SQL Server
 - 📫 Contate-me no e-mail: iasmimgodoy@outlook.com
 
