@@ -1,12 +1,12 @@
 ## Olá, sou a Iasmim Godoy!👋
 
-- ⚡ Me tornando Desenvolvedora Full Stack
-- 🌱 Estudando Angular, C# e .NET
+- ⚡ Desenvolvedora Front-end me tornando Full Stack
+- 🌱 Estudando React, Next.js, Vue.js, Vue.js
 - 💬 Posso responder perguntas sobre: Transact SQL e Microsoft SQL Server
 - 📫 Contate-me no e-mail: iasmimgodoy@outlook.com
 
 
-<div style="display: inline_block"><br>
+<!--<div style="display: inline_block"><br>
   <img align="center" alt="Iasmim-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Iasmim-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="Iasmim-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
@@ -18,7 +18,7 @@
   <img align="center" alt="Iasmim-MSSQLServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
   <img align="center" alt="Iasmim-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Iasmim-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
-</div>
+</div>-->
 
   
 ##
