@@ -3,7 +3,7 @@
 - ⚡ Desenvolvedora Front-end me tornando Full Stack
 - 🌱 Estudando React, Next.js, Vue.js e Nuxt.js
 - 💬 Posso responder perguntas sobre: Transact SQL e Microsoft SQL Server
-- 📫 Contate-me no e-mail: iasmimgodoy@outlook.com
+- 📫 Contate-me no e-mail: iasmimgodoy@outlook.com ou iasmimfgodoy@outlook.com
 
 
 <!--<div style="display: inline_block"><br>
