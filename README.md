@@ -2,7 +2,7 @@
 
 - ⚡ Desenvolvedora Front-end me tornando Full Stack
 - 🌱 Estudando React, Next.js, Typescript, Angular e C#.
-- 💬 Posso responder perguntas sobre: Transact SQL e Microsoft SQL Server, HTML, CSS e Javascript.
+- 💬 Posso responder perguntas sobre: Transact SQL e Microsoft SQL Server, HTML, CSS, Javascript, R e Python.
 - 📫 Contate-me no e-mail: iasmimgodoy@outlook.com ou iasmimfgodoy@outlook.com
 
 
