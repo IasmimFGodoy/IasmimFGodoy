@@ -1,8 +1,8 @@
 ## Olá, sou a Iasmim Godoy!👋
 
-- ⚡ Desenvolvedora Front-end me tornando Full Stack
-- 🌱 Estudando React, Next.js, Typescript, Angular e C#.
-- 💬 Posso responder perguntas sobre: Transact SQL e Microsoft SQL Server, HTML, CSS, Javascript, R e Python.
+- ⚡ Estudante de tecnologia.
+- 🌱 Possuo projetos na área de dados e também em desenvolvimento de software.
+- 💬 Posso responder perguntas sobre: C#, SQL, R e Python.
 - 📫 Contate-me no e-mail: iasmimgodoy@outlook.com ou iasmimfgodoy@outlook.com
 
 
